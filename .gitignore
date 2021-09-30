@@ -1,3 +1,27 @@
+# Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*-converted-to.*
+*.synctex.gz
+*.bbl
+*.bib.bak
+*.bib.sav
+*.blg
+*.fdb_latexmk
+*.brf
+*.nav
+*.snm
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
